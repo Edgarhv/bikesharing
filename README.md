@@ -33,4 +33,4 @@ In this challenge, I worked with data visualization software called Tableau to p
 
 
 ### Checkout Time by Gender
-![img](
+![img](https://github.com/Edgarhv/bikesharing/blob/b7529c799611e2993ccd53467f9960b897f9b484/Images/Checkout%20Times%20by%20Gender%20in%20August%202019.jpg)
