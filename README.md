@@ -40,3 +40,5 @@ In this challenge, I worked with data visualization software called Tableau to p
 ![img](https://github.com/Edgarhv/bikesharing/blob/cce3b44317a50ce5b0d4370332e4713cf1e08ea2/Images/Trips%20by%20Gender%20(Weekday%20per%20Hour)%20in%20August%202019.jpg)
 ### User Trips by Gender by Weekday
 ![img](https://github.com/Edgarhv/bikesharing/blob/391a7588d34b9dca3caf934a87fc18bfb82a0901/Images/User%20Trips%20by%20Gender%20by%20Weekday%20in%20August%202019.jpg)
+
+## Summary
