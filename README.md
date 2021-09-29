@@ -42,6 +42,7 @@ In this challenge, I worked with data visualization software called Tableau to p
 ![img](https://github.com/Edgarhv/bikesharing/blob/875c5fbc4b0b1a0dbab1728ce89f0557ba5a71e4/Images/Trips%20by%20Weekday%20in%20August%202019.jpg)
 - Citibikes are used the least between on Sundays through Saturdays. This may be a good days for Citibikes to perform maintenance on their bikes.
 ### Trips by Gender
+- Citibikes are popular amongst males and females around 8 AM, 5 PM, and 6 PM Monday through Friday.
 ![img](https://github.com/Edgarhv/bikesharing/blob/cce3b44317a50ce5b0d4370332e4713cf1e08ea2/Images/Trips%20by%20Gender%20(Weekday%20per%20Hour)%20in%20August%202019.jpg)
 ### User Trips by Gender by Weekday
 ![img](https://github.com/Edgarhv/bikesharing/blob/391a7588d34b9dca3caf934a87fc18bfb82a0901/Images/User%20Trips%20by%20Gender%20by%20Weekday%20in%20August%202019.jpg)
