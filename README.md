@@ -31,9 +31,8 @@ In this challenge, I worked with data visualization software called Tableau to p
 ### Checkout Times for Users
 ![img](https://github.com/Edgarhv/bikesharing/blob/4d5b3c9e77a3e906a9c52809f1a98b7cd2409046/Images/Checkout%20Times%20for%20Users%20in%20August%202019.jpg)
 
-### Trips
-![img](https://github.com/Edgarhv/bikesharing/blob/875c5fbc4b0b1a0dbab1728ce89f0557ba5a71e4/Images/Trips%20by%20Weekday%20in%20August%202019.jpg)
-
-
 ### Checkout Time by Gender
 ![img](https://github.com/Edgarhv/bikesharing/blob/b7529c799611e2993ccd53467f9960b897f9b484/Images/Checkout%20Times%20by%20Gender%20in%20August%202019.jpg)
+
+### Trips
+![img](https://github.com/Edgarhv/bikesharing/blob/875c5fbc4b0b1a0dbab1728ce89f0557ba5a71e4/Images/Trips%20by%20Weekday%20in%20August%202019.jpg)
