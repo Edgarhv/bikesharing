@@ -24,10 +24,12 @@ In this challenge, I worked with data visualization software called Tableau to p
 ### Top Starting Locations
 ![img](https://github.com/Edgarhv/bikesharing/blob/66af1742ad77b97aa225471a3e41f2206529f93c/Images/Top%20%20Starting%20Location.jpg)
 
+- The most used starting points of the trip are in the center of the city specially Pershing square.
 
 ### Top Ending Locations
 ![img](https://github.com/Edgarhv/bikesharing/blob/56fb262de849a3ca13bea7a8437aaccbf2963c09/Images/Top%20Ending%20Locations.jpg)
 
+- The most used ending points of the trip are in the center of the city specially Pershing square because It is one of the most important ports of citibike.
 ### Checkout Times for Users
 ![img](https://github.com/Edgarhv/bikesharing/blob/4d5b3c9e77a3e906a9c52809f1a98b7cd2409046/Images/Checkout%20Times%20for%20Users%20in%20August%202019.jpg)
 
