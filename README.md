@@ -48,4 +48,7 @@ In this challenge, I worked with data visualization software called Tableau to p
 ![img](https://github.com/Edgarhv/bikesharing/blob/391a7588d34b9dca3caf934a87fc18bfb82a0901/Images/User%20Trips%20by%20Gender%20by%20Weekday%20in%20August%202019.jpg)
 - Sundays were the most popular days to use Citibikes for male and female customers.
 ## Summary
-- During the summer of August 2019 in New York, males were the primary users of CitiBikes. Also, They use the most on Thursdays. The location of starting and ending trips were the same.
+
+During the summer of August 2019 in New York, males were the primary users of CitiBikes. Also, They use the most on Thursdays. The location of starting and ending trips were the same.
+
+Additional, We need to understand that New York is different of Des Moines, Iowa. It would be a Good idea to make a comparision of weather between the cities. Both cities have different weather, and if there temperatures and weather are not similar, this may also provide a stronger case to investors that Citibikes is not a great fit for Des Moines, Iowa. On the other, Des Moines is a smaller city. We can ajust the study to a smaller city and it will work.
