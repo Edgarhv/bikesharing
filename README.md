@@ -21,4 +21,9 @@ In this challenge, I worked with data visualization software called Tableau to p
 ### Link to Tableau Dashboard
 [NYC_CitiBike_Challenge_Trip_Analysis](https://public.tableau.com/views/NYCCitibikeChallenge_16328761915300/NYCCitibikeChallenge?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
-![img](Images/Top  Starting Location.jpg)
+### Top Starting Locations
+![img](https://github.com/Edgarhv/bikesharing/blob/66af1742ad77b97aa225471a3e41f2206529f93c/Images/Top%20%20Starting%20Location.jpg)
+
+
+### Top Ending Locations
+![img](
