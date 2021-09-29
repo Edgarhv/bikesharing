@@ -31,6 +31,8 @@ In this challenge, I worked with data visualization software called Tableau to p
 
 - The most used ending points of the trip are in the center of the city specially Pershing square because It is one of the most important spots of citibike.
 ### Checkout Times for Users
+
+- Peak usage for NYC CitiBikes occurs at 5 minutes.Males were the primary user of CitiBikes in August 2019. 
 ![img](https://github.com/Edgarhv/bikesharing/blob/4d5b3c9e77a3e906a9c52809f1a98b7cd2409046/Images/Checkout%20Times%20for%20Users%20in%20August%202019.jpg)
 
 ### Checkout Time by Gender
