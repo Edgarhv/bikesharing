@@ -19,5 +19,5 @@ In this challenge, I worked with data visualization software called Tableau to p
 ## Results
 
 ### Link to Tableau Dashboard
-[NYC_CitiBike_Challenge_Trip_Analysis]()
+[NYC_CitiBike_Challenge_Trip_Analysis](https://public.tableau.com/views/NYCCitibikeChallenge_16328761915300/NYCCitibikeChallenge?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
